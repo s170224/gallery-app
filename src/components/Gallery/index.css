@@ -1,0 +1,7 @@
+.list-of-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  padding: 10px;
+  margin: 10px;
+}
